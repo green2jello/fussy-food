@@ -8,3 +8,4 @@ description = "A CLI tool for FussyFood operations"
 
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
+rand = "0.8"
