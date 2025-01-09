@@ -1,1 +1,3 @@
 /target
+# Placeholder for long term secrets management.
+.env
